@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "content": "Dedicated teams laser-focused on project success.",
+    "value": "2400"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "content": "Projects seamlessly navigated from conception to completion.",
+    "value": "133"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-medal",
+    "content": "Recognitions on a global stage for unparalleled digital execution.",
+    "value": "46"
+  }
+]
+

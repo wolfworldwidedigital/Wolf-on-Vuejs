@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "image1": "/img/01.jpg",
+  "image2": "/img/02.jpg",
+  "exp": {
+    "nmb": 14,
+    "name": "Years Crafting Digital Solutions"
+  },
+  "title": { "first": "A Journey of Skills", "second": "and Passionate Pursuits." },
+  "content": {
+    "first": "It's not just about the visual aesthetics; it's about the story, the emotion, and the journey behind each creation.",
+    "second": "Drawing from nearly three decades of experience, I've had the privilege of collaborating with both budding ideas and established names, crafting authentic digital narratives along the way."
+  },
+  "smallTitle": "About Me"
+}

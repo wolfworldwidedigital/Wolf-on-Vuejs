@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Project Renaissance",
+    "content": "Revamping digital landscapes one project at a time. Whether it's a fresh visual approach, an intuitive UX blueprint, or an innovative collaboration, let's bring your vision to life.",
+    "image": "/img/slid/02.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pinnacle of Digital Craftsmanship",
+    "content": "Recognized for excellence in delivering stellar digital designs. From crafting visual strategies to optimizing user experiences, we're here to elevate your digital presence.",
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Digital Synergy, Tangible Growth",
+    "content": "Harnessing the power of digital to drive business value. We're not just managing projects; we're crafting experiences that resonate and convert.",
+    "image": "/img/slid/01.jpg"
+  }
+]
+

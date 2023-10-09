@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "smallTitle": "About Me",
+  "title": "My Journey",
+  "content": "Throughout my professional journey, I've consistently aimed for excellence. Every challenge faced, every milestone achieved, has helped me grow and shape my vision. From collaborating with emerging brands to established names, my passion lies in delivering value and creating lasting impacts.",
+  "image": "/img/feat.jpg",
+  "status": [
+    { "id": 1, "number": "3", "letter": "K", "statusName": "Satisfied Clients" },
+    { "id": 2, "number": "14", "letter": "K", "statusName": "Completed Projects" }
+  ]
+}

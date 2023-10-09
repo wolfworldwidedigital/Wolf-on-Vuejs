@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/mobile-app/img/blog/1.jpg",
+    "tag": "Project Management",
+    "title": "Everything You Want Know About Creating Voice Interfaces",
+    "author": "David De Wolf",
+    "comments": 5
+  },
+  {
+    "id": 2,
+    "image": "/mobile-app/img/blog/2.jpg",
+    "tag": "Responsive Web Design",
+    "title": "Everything You Want Know About Creating Voice Interfaces",
+    "author": "David De Wolf",
+    "comments": 5
+  }
+]

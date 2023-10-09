@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Harnessing Solid Colors in Modern Interiors",
+    "content": "The world of interior design often seems complex, but I've found beauty in simplicity. Combining solid colors with minimalist furniture brings out a unique elegance. This approach is both sophisticated and understated, creating spaces that are calming and harmonious.",
+    "image": "/img/blog/l1.jpg",
+    "tags": ["Interior Design", "Minimalism", "Color Theory"],
+    "date": {
+      "day": "07",
+      "month": "August"
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Art of Crafting Engaging Blog Content",
+    "content": "In the digital realm, my pursuit has always been about striking the right balance between clarity and flair. A well-structured blog isn't just about the aesthetics, but the compelling narratives and the value it offers to readers. It's the stories we tell and the connections we forge that make the real difference.",
+    "image": "/img/blog/l2.jpg",
+    "tags": ["Content Creation", "Blogging", "Digital Narratives"],
+    "date": {
+      "day": "14",
+      "month": "August"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Embracing Modern Web Aesthetics",
+    "content": "Web design has evolved immensely over the years, and my journey has been about adapting and growing with it. From flat designs to vibrant gradients, the key lies in understanding trends while staying true to timeless design principles. It's all about creating experiences that resonate.",
+    "image": "/img/blog/l3.jpg",
+    "tags": ["Web Design", "Trends", "User Experience"],
+    "date": {
+      "day": "21",
+      "month": "August"
+    }
+  }
+]

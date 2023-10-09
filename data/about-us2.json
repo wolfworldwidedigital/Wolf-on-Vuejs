@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.jpg",
+  "image2": "/img/intro/3.jpg",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "About Me",
+  "title": { "first": "I'm not just passionate about", "second": "the digital realm." },
+  "content": "Hello, I'm a digital enthusiast with a flair for creating award-winning websites, establishing unique brands, and developing cutting-edge apps. Every pixel I place, every design I craft, revolves around the essence of perfection, creativity, and optimal performance.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Pixel", "second": "Precision" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Innovative", "second": "Ideas" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "Peak", "second": "Performance" },
+      "wowDelay": ".8s"
+    }
+  ]
+}
